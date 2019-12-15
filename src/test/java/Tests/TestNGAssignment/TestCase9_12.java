@@ -1,4 +1,4 @@
-package Tests;
+package Tests.TestNGAssignment;
 
 import Utils.BrowserFactory;
 import org.openqa.selenium.By;
